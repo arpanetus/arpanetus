@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-- 📫 How to reach me: http://arpanetus.com/contact.html
+- 📫 How to reach me: https://arpanetus.com/contact.html
 - 😄 Pronouns: 
   - ol(who? he) 
   - onıñ(whose? his)
