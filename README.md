@@ -1,4 +1,4 @@
-### Qoc kördik!
+### Qoc keldiñiz!
  > Everyday Is Like Sunday
  > (c) Morrissey
 
