@@ -1,4 +1,4 @@
-### Qoc keldiñiz!
+### Velkommen!
  > Everyday Is Like Sunday
  > (c) Morrissey
 
