@@ -1,6 +1,6 @@
-### Velkommen!
- > Everyday Is Like Sunday
- > (c) Morrissey
+### Saiyoun!
+ > Spiral out, keep going
+ > (c) Tool
 
 - [how to reach me](https://arpanetus.com/contact.html)
 - [about me](https://arpanetus.com/about.html)
