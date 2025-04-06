@@ -1,7 +1,8 @@
 ### Saiyoun!
- > Spiral out, keep going
-
- > (c) Tool
+<blockquote>
+ Spiral out, keep going <br>
+ © Tool
+</blockquote>
 
 - [how to reach me](https://arpanetus.com/contact.html)
 - [about me](https://arpanetus.com/about.html)
