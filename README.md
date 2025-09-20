@@ -1,4 +1,4 @@
-### Saiyoun!
+### Saiyūn!
 <blockquote>
  Spiral out, keep going <br>
  © Tool
